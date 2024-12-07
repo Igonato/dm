@@ -1,0 +1,13 @@
+[package]
+name = "dm"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+description = "Metaprogramming CLI tool"
+repository = "https://github.com/Igonato/dm"
+documentation = "https://docs.rs/dn"
+readme = "README.md"
+# TODO: add keywords and categories fields
+
+
+[dependencies]
